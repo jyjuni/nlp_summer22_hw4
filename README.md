@@ -1,4 +1,5 @@
-# Repo for HW4 - NLP Summer 2022 @ Columbia University
+# Lexical Substitution Task
+Repo for HW4 - NLP Summer 2022 @ Columbia University
 
 ## Cloud Setup
 - [Cloud setup instructions](cloud_setup.md): Broad outline of steps to redeem credits, setup VM, and install dependencies through notebook.
