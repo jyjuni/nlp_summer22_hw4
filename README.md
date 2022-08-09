@@ -8,7 +8,7 @@ Repo for HW4 - NLP Summer 2022 @ Columbia University
 
 ## Introduction
 
-In this assignment you will work on a lexical substitution task, using, WordNet, pre-trained Word2Vec embeddings, and BERT. This task was first proposed as a shared task at SemEval 2007 Task 10 (Links to an external site.). In this task, the goal is to find lexical substitutes for individual target words in context. For example, given the following sentence:
+In this assignment you will work on a lexical substitution task, using, WordNet, pre-trained Word2Vec embeddings, and BERT. This task was first proposed as a shared task at [SemEval 2007 Task 10](http://nlp.cs.swarthmore.edu/semeval/tasks/task10/description.php). In this task, the goal is to find lexical substitutes for individual target words in context. For example, given the following sentence:
 
 "Anyway , my pants are getting tighter every day ." 
 
